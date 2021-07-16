@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "ACH Tallman Case" ] },
+    "summary": { "en": [ "An example of annotating the contents of a single reel to reel tape that contains interwoven recorded content from different time periods ." ] },
+    "items": [
+    ]
+}
