@@ -81,6 +81,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/source-of-audio.json",
+            "label": "Source of Audio"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/announcement-invitation-bellavista-street-nov-17--1986.json",
             "label": "Announcement Invitation Bellavista Street Nov 17, 1986"
           }
