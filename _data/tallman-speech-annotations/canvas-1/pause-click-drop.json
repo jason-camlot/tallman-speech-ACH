@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/pause-click-drop.json",
+  "type": "AnnotationPage",
+  "label": "Pause Click/Drop",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/pause-click-drop-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pause Click/Drop",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "135.081089,136.229738"
+        }
+      }
+    }
+  ]
+}

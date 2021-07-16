@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/there-are-places-i-have-had-to-dub-in.json",
+  "type": "AnnotationPage",
+  "label": "there are places I have had to dub in",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/there-are-places-i-have-had-to-dub-in-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "there are places I have had to dub in",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.222984,195.270282"
+        }
+      }
+    }
+  ]
+}

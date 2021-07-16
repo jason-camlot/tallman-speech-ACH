@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/follow-along-to-the-top-of-page-25.json",
+  "type": "AnnotationPage",
+  "label": "follow along to the top of page 25",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/follow-along-to-the-top-of-page-25-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "follow along to the top of page 25",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.277040,206.297310"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/ok-this-is-warren-tallman---bellavista-sitting-room-intro-dec-14-1986.json",
+  "type": "AnnotationPage",
+  "label": "Ok this is Warren Tallman...Bellavista Sitting Room intro Dec 14 1986",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/ok-this-is-warren-tallman---bellavista-sitting-room-intro-dec-14-1986-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ok this is Warren Tallman...Bellavista Sitting Room intro Dec 14 1986",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.581082,38.479732"
+        }
+      }
+    }
+  ]
+}

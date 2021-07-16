@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--i-ll-fill-out-the-rest-of-this-side-with-a-comment-by-colleague-don-stevens-at-a-luncheon-for-me-after-i-d-read-what-you-are-going-to-hear--and-so-he-d-heard-this-.json",
+  "type": "AnnotationPage",
+  "label": "Interjection: I'll fill out the rest of this side with a comment by colleague don stevens at a luncheon for me after I d read what you are going to hear, and so he d heard this ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--i-ll-fill-out-the-rest-of-this-side-with-a-comment-by-colleague-don-stevens-at-a-luncheon-for-me-after-i-d-read-what-you-are-going-to-hear--and-so-he-d-heard-this--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interjection: I'll fill out the rest of this side with a comment by colleague don stevens at a luncheon for me after I d read what you are going to hear, and so he d heard this ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2609.729892,2623.370096"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--it-s-towards-the-end-that-you-can-hear-the-bells-toll---now-run-this-out-to-the-end-before-you-turn-it-over.json",
+  "type": "AnnotationPage",
+  "label": "interjection: It s towards the end that you can hear the bells toll...Now run this out to the end before you turn it over",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--it-s-towards-the-end-that-you-can-hear-the-bells-toll---now-run-this-out-to-the-end-before-you-turn-it-over-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "interjection: It s towards the end that you can hear the bells toll...Now run this out to the end before you turn it over",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2697.946114,2720.229899"
+        }
+      }
+    }
+  ]
+}

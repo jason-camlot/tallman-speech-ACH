@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--this-is-me-warren-interrupting---now-it-will-pick-up-with-the-regular-text-again.json",
+  "type": "AnnotationPage",
+  "label": "interjection: this is me warren interrupting...now it will pick up with the regular text again",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--this-is-me-warren-interrupting---now-it-will-pick-up-with-the-regular-text-again-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "interjection: this is me warren interrupting...now it will pick up with the regular text again",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2437.030557,2465.459613"
+        }
+      }
+    }
+  ]
+}

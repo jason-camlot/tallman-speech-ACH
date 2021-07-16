@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/don-stevens-talking-about-wt-reading-yeats-at-his-little-farewell-to-the-english-department.json",
+  "type": "AnnotationPage",
+  "label": "Don Stevens talking about WT reading Yeats at his little farewell to the English department",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/don-stevens-talking-about-wt-reading-yeats-at-his-little-farewell-to-the-english-department-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Don Stevens talking about WT reading Yeats at his little farewell to the English department",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2623.829555,2697.946114"
+        }
+      }
+    }
+  ]
+}
