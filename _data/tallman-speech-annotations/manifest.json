@@ -27,104 +27,10 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/follow-along-page-27---.json",
-            "label": "follow along page 27..."
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/documentary-recording-of-intro-to-written-talk.json",
-            "label": "documentary recording of intro to written talk"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/ok-this-is-warren-tallman---bellavista-sitting-room-intro-dec-14-1986.json",
-            "label": "Ok this is Warren Tallman...Bellavista Sitting Room intro Dec 14 1986"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/documentary-recording-of-wt-reading-paper-how-to-play-career-and-win.json",
-            "label": "documentary recording of WT reading paper how to play career and win"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/oh-yes-i-should-also-mention.json",
-            "label": "oh yes I should also mention"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--it-s-towards-the-end-that-you-can-hear-the-bells-toll---now-run-this-out-to-the-end-before-you-turn-it-over.json",
-            "label": "interjection: It s towards the end that you can hear the bells toll...Now run this out to the end before you turn it over"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/don-stevens-talking-about-wt-reading-yeats-at-his-little-farewell-to-the-english-department.json",
-            "label": "Don Stevens talking about WT reading Yeats at his little farewell to the English department"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/there-are-places-i-have-had-to-dub-in.json",
-            "label": "there are places I have had to dub in"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/pause-click.json",
-            "label": "pause click"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/source-of-audio.json",
-            "label": "Source of Audio"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/announcement-invitation-bellavista-street-nov-17--1986.json",
-            "label": "Announcement Invitation Bellavista Street Nov 17, 1986"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/follow-along-to-the-top-of-page-25.json",
-            "label": "follow along to the top of page 25"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/back-to-bellavista-sitting-room-intro-december-14-1986.json",
-            "label": "Back to Bellavista Sitting Room Intro December 14 1986"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/pause-click-drop.json",
-            "label": "Pause Click/Drop"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--i-ll-fill-out-the-rest-of-this-side-with-a-comment-by-colleague-don-stevens-at-a-luncheon-for-me-after-i-d-read-what-you-are-going-to-hear--and-so-he-d-heard-this-.json",
-            "label": "Interjection: I'll fill out the rest of this side with a comment by colleague don stevens at a luncheon for me after I d read what you are going to hear, and so he d heard this "
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--this-is-me-warren-interrupting---now-it-will-pick-up-with-the-regular-text-again.json",
-            "label": "interjection: this is me warren interrupting...now it will pick up with the regular text again"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/tallman-speech-ACH/tallman-speech-annotations/canvas-1/canvas/interjection--here-we-go-with-how-to-play-career-and-win.json",
-            "label": "interjection: here we go with how to play career and win"
+            "id": "https://jason-camlot.github.io/tallman-speech-ACH/annotations/tallman-speech-annotations-canvas-1-test.json",
+            "label": {
+              "none": ["TEST"]
+            }
           }
         ],
         "items": [
